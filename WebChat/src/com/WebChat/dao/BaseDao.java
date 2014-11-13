@@ -13,7 +13,7 @@ public class BaseDao {
 	private final static String DRIVER = "com.mysql.jdbc.Driver";
 	private final static String URL = "jdbc:mysql://localhost/test";
 	private final static String SID = "root";
-	private final static String PWD = "sqrl4101";
+	private final static String PWD = "********"; //whatever your pwd is.
 
 	static {
 		try {
